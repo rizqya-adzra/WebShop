@@ -187,7 +187,7 @@ ul li:hover::after {
 }
 
 .thecolor {
-    background-color: aliceblue;
+    background-color: #C3ACD0;
     border-radius: 20px 20px 0px 0px;
 }
 
@@ -267,8 +267,5 @@ footer {
     text-decoration: none;
     color: white;
 }
-
-
-
 
 /* footer */
